@@ -6,4 +6,4 @@
 - 🔭 I am currently working on ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🌱 I'm currently learning how to create websites with ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  and  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - 📫 How to reach me: email: kokiev.m.i.3.21@gmail.com
-- ⚡ Favorite Quote: It's a pity I didn't take the locker with me. Hehe. Rune chest - locker.
+- ⚡ Favorite Quote: It's a pity I didn't take the locker with me. Hehe. Rune chest - locker. @Juggernaut
